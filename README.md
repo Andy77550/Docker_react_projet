@@ -1,4 +1,4 @@
-# MERN Docker Compose 
+# Docker_react_projet
 
 Pour faire fonctionner l'application de base, nous avons crée une pile MERN (MongoDB, Express JS, React JS et Node JS).
 
