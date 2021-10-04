@@ -12,3 +12,6 @@ Exécutez « make run » à partir de la racine pour exécuter des conteneurs av
 ---
 
 **REMARQUE :** Il s'agit d'une configuration de développement dans laquelle l'application React est servie par un conteneur séparé.
+
+Andy Vespuce
+Ewen Celibert
